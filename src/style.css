@@ -1,0 +1,32 @@
+.avatar{
+
+width: 200px;
+height: 200px;
+margin-right: 2rem;
+}
+
+
+.EmployeeDiv{
+    display: flex;
+    border: 2px solid black;
+    box-sizing: border-box ;
+    padding: 1rem ;
+    width: 50%;
+    margin:  1rem;
+    background-color: #dedede;
+
+}
+
+
+.button{
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 1rem ;
+    font-size: 1rem ;
+    cursor: pointer;
+
+
+
+
+}
